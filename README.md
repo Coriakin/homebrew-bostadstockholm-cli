@@ -15,3 +15,9 @@ brew install bostadcli
 brew update
 brew upgrade bostadcli
 ```
+
+## Usage
+
+```bash
+bostadcli --help
+```
