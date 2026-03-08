@@ -1,23 +1,23 @@
-# homebrew-bostadcli
+# homebrew-bostadstockholm-cli
 
-Homebrew tap for installing `bostadcli`.
+Homebrew tap for installing `bostadstockholm-cli`.
 
 ## Add tap and install
 
 ```bash
-brew tap Coriakin/bostadcli
-brew install bostadcli
+brew tap Coriakin/bostadstockholm-cli
+brew install bostadstockholm-cli
 ```
 
 ## Upgrade
 
 ```bash
 brew update
-brew upgrade bostadcli
+brew upgrade bostadstockholm-cli
 ```
 
 ## Usage
 
 ```bash
-bostad --help
+bostadstockholm --help
 ```
