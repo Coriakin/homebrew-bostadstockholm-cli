@@ -19,5 +19,5 @@ brew upgrade bostadcli
 ## Usage
 
 ```bash
-bostadcli --help
+bostad --help
 ```

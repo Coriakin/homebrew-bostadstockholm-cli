@@ -16,11 +16,11 @@ class Bostadcli < Formula
   end
 
   def install
-    bin.install "bostad" => "bostadcli"
+    bin.install "bostad"
   end
 
   test do
-    output = shell_output("#{bin}/bostadcli --help")
+    output = shell_output("#{bin}/bostad --help")
     assert_match "Usage:", output
   end
 end
